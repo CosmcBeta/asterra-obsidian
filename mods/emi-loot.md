@@ -21,5 +21,5 @@ A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer.
 
 ## Dependencies
 
-- none
-
+- [[emi|EMI]]
+- [[fzzy-config|Fzzy Config]]

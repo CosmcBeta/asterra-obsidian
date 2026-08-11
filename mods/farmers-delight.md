@@ -22,4 +22,3 @@ A cozy expansion to farming and cooking!
 ## Dependencies
 
 - none
-

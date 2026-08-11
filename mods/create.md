@@ -22,4 +22,3 @@ Aesthetic Technology that empowers the Player
 ## Dependencies
 
 - none
-

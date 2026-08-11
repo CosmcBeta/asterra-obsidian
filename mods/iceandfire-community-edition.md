@@ -21,5 +21,6 @@ The community version of mod Ice and Fire
 
 ## Dependencies
 
-- none
-
+- [[geckolib|Geckolib]]
+- [[uranus|Uranus]]
+- [[jupiter|Jupiter]]

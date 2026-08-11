@@ -21,5 +21,4 @@ Cleanly swing through transparent blocks like tall grass to hit mobs without bre
 
 ## Dependencies
 
-- none
-
+- [[puzzles-lib|Puzzles Lib]]

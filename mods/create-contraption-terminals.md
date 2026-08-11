@@ -21,5 +21,5 @@ Allows Tom's Simple Storage Terminals to work on Create contraptions.
 
 ## Dependencies
 
-- none
-
+- [[toms-simple-storage-mod|Tom's Simple Storage Mod]]
+- [[create|Create]]

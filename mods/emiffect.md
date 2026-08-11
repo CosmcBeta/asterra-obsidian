@@ -13,7 +13,7 @@ EMI addon that appends status effects in EMI and provides information about each
 
 ## Notes
 
-- none
+- not sure if needed, but lets add it for now
 
 ## Link
 
@@ -21,5 +21,4 @@ EMI addon that appends status effects in EMI and provides information about each
 
 ## Dependencies
 
-- none
-
+- [[emi|EMI]]

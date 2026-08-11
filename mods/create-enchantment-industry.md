@@ -21,5 +21,5 @@ Automatic Enchanting, with Create
 
 ## Dependencies
 
-- none
-
+- [[create|Create]]
+- [[create-dragons-plus|Create: Dragons Plus]]

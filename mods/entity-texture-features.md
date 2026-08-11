@@ -22,4 +22,3 @@ Adds entity and player skin features for customization
 ## Dependencies
 
 - none
-

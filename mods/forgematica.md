@@ -13,7 +13,7 @@ A modern client-side schematic mod for Minecraft.
 
 ## Notes
 
-- none
+- cant have shaders enabled when running this, somehow make a note in game for the first time people try and have shaders on
 
 ## Link
 
@@ -21,5 +21,4 @@ A modern client-side schematic mod for Minecraft.
 
 ## Dependencies
 
-- none
-
+- [[mafglib|MaFgLib]]

@@ -9,7 +9,7 @@ aliases:
 
 ## Description
 
-Patches CITResewn Mod so it runs on NeoForge through Sinytra Connector!
+Patches CITResewn Mod so it runs on Neoforge through Sinytra Connector!
 
 ## Notes
 
@@ -21,5 +21,6 @@ Patches CITResewn Mod so it runs on NeoForge through Sinytra Connector!
 
 ## Dependencies
 
-- none
-
+- [[forgified-fabric-api|Forgified Fabric API]]
+- [[sinytra-connector|Sinytra Connector]]
+- [[cit-resewn|CIT Resewn]]

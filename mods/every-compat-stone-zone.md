@@ -13,7 +13,7 @@ Universal Stone Compat: Create, Twigs, Stoneworks, and more...
 
 ## Notes
 
-- none
+- not sure if its the best mod to add but we will see
 
 ## Link
 
@@ -21,5 +21,5 @@ Universal Stone Compat: Create, Twigs, Stoneworks, and more...
 
 ## Dependencies
 
-- none
-
+- [[moonlight-lib|Moonlight Lib]]
+- [[every-compat-wood-good|Every Compat (Wood Good)]]

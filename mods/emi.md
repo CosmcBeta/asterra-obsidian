@@ -22,4 +22,3 @@ Recipe browser with good UI
 ## Dependencies
 
 - none
-

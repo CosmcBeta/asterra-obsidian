@@ -21,5 +21,6 @@ A mod which overhauls the vanilla creepers!
 
 ## Dependencies
 
-- none
-
+- [[geckolib|Geckolib]]
+- [[resourceful-lib|Resourceful Lib]]
+- [[resourceful-config|Resourceful Config]]

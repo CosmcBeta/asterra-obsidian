@@ -21,5 +21,6 @@ Fixes over 70 bugs found on the bug tracker
 
 ## Dependencies
 
-- none
-
+- [[sinytra-connector|Sinytra Connector]]
+- [[forgified-fabric-api|Forgified Fabric API]]
+- [[yetanotherconfiglib|YetAnotherConfigLib (YACL)]]

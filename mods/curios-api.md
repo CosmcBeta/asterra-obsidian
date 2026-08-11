@@ -3,9 +3,9 @@ type: mod
 side: both
 launcher: neoforge
 aliases:
- - "Curios"
+  - Curios API
 ---
-# Curios
+# Curios API
 
 ## Description
 
@@ -22,4 +22,3 @@ A flexible and expandable accessory/equipment API for users and developers.
 ## Dependencies
 
 - none
-

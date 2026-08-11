@@ -21,4 +21,4 @@ This mod adds back the old Tinkers' Construct heart canisters in a new and reima
 
 ## Dependencies
 
-- [[curios|Curios]]
+- [[curios-api|Curios API]]

@@ -1,9 +1,9 @@
 ---
 type: mod
-side: clinet
+side: client
 launcher: connector
 aliases:
- - "Continuity"
+  - Continuity
 ---
 # Continuity
 
@@ -21,5 +21,5 @@ Allows resource packs to use connected textures
 
 ## Dependencies
 
-- none
-
+- [[sinytra-connector|Sinytra Connector]]
+- [[forgified-fabric-api|Forgified Fabric API]]

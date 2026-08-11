@@ -13,7 +13,7 @@ Adds sleeping bags that let you sleep through the night without moving your spaw
 
 ## Notes
 
-- none
+- check to make sure this all works and is best when working with the backpack mod
 
 ## Link
 
@@ -22,4 +22,3 @@ Adds sleeping bags that let you sleep through the night without moving your spaw
 ## Dependencies
 
 - none
-

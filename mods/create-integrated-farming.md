@@ -21,5 +21,5 @@ Integrated farming automation for Create
 
 ## Dependencies
 
-- none
-
+- [[create|Create]]
+- [[create-dragons-plus|Create: Dragons Plus]]

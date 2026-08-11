@@ -22,4 +22,3 @@ Allows you to locate structures anywhere in the world.
 ## Dependencies
 
 - none
-

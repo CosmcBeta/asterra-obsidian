@@ -22,4 +22,3 @@ A client side mod that replaces multiple vanilla heart rows with a single row us
 ## Dependencies
 
 - none
-

@@ -21,5 +21,4 @@ Overhauled anvils with stored items, fairer costs, and no more frustrating repai
 
 ## Dependencies
 
-- none
-
+- [[puzzles-lib|Puzzles Lib]]

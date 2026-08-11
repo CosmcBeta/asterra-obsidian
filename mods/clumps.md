@@ -22,4 +22,3 @@ Clumps XP orbs together to reduce lag
 ## Dependencies
 
 - none
-

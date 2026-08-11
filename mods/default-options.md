@@ -9,7 +9,7 @@ aliases:
 
 ## Description
 
-A way for modpacks to ship a default (key) configuration without having to include an options.txt file.
+A way for mod packs to ship a default (key) configuration without having to include an options.txt file.
 
 ## Notes
 
@@ -21,5 +21,4 @@ A way for modpacks to ship a default (key) configuration without having to inclu
 
 ## Dependencies
 
-- none
-
+- [[balm|Balm]]

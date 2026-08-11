@@ -22,4 +22,3 @@ Inspect any book in a chiseled bookshelf.
 ## Dependencies
 
 - none
-

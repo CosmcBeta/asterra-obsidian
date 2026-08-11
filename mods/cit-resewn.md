@@ -21,5 +21,4 @@ Adds custom item textures to Fabric
 
 ## Dependencies
 
-- none
-
+- [[sinytra-connector|Sinytra Connector]]

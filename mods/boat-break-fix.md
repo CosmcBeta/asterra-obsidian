@@ -21,5 +21,4 @@ Fixes a bug where boats can be destroyed while falling on specific heights.
 
 ## Dependencies
 
-- none
-
+- [[necronomicon-api|Necronomicon API]]

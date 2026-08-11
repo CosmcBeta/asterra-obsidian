@@ -22,4 +22,3 @@ A Minecraft mod which features more blocks, items, armors, and hidden mysteries 
 ## Dependencies
 
 - none
-

@@ -21,5 +21,4 @@ Add-on for the Farmer's Delight mod. Adds 2 new professions to villagers. Chef a
 
 ## Dependencies
 
-- none
-
+- [[farmers-delight|Farmer's Delight]]

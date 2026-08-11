@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mods/betterf3.md",
+                "file": "mods/jade.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "betterf3"
+              "title": "jade"
             }
           }
         ]
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 206
   },
   "right": {
     "id": "61236cf19b56e30d",
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mods/betterf3.md"
+                "file": "mods/jade.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -231,32 +231,32 @@
   },
   "active": "43333e55390af328",
   "lastOpenFiles": [
-    "cloth-config-api.md",
-    "mods/betterf3.md",
-    "mods/betterend-new-dawn.md",
-    "mods/accessories.md",
-    "mods/accessories-compatibility-layer.md",
-    "mods/advanced-netherite.md",
-    "mods/ambientsounds.md",
-    "mods/animatica-foxified.md",
-    "mods/anti-enderman-greif.md",
-    "mods/appleskin.md",
-    "mods/artifacts.md",
-    "mods/baubley-heart-canisters.md",
-    "mods/better-archeology.md",
-    "mods/better-compatibility-checker.md",
-    "mods/better-statistics-screen.md",
-    "worldweaver-new-dawn.md",
-    "bclib-new-dawn.md",
-    "tcdcommons-api.md",
-    "wunderlib-new-dawn.md",
-    "architectury-api.md",
-    "creativecore.md",
-    "resourceful-config.md",
-    "owo-lib.md",
-    "templates/mod-note.md",
-    "forgified-fabric-api.md",
-    "mods/bettergrassify.md",
+    "mods/iris-shaders.md",
+    "mods/inventory-profiles-next.md",
+    "libipn.md",
+    "mods/immediatelyfast.md",
+    "mods/icon-xaeros.md",
+    "mods/iceandfire-community-edition.md",
+    "jupiter.md",
+    "uranus.md",
+    "mods/handcrafted.md",
+    "mods/gravestone-mod.md",
+    "mods/friendsandfoes-forge-neoforge.md",
+    "mods/forgematica.md",
+    "mafglib.md",
+    "mods/ferritecore.md",
+    "mods/farmers-delight.md",
+    "mods/explorify.md",
+    "mods/explorers-compass.md",
+    "mods/every-compat-wood-good.md",
+    "mods/every-compat-stone-zone.md",
+    "moonlight-lib.md",
+    "mods/entity-texture-features.md",
+    "mods/entity-model-features.md",
+    "mods/entity-culling.md",
+    "mods/enhanced-block-entities-neoforged.md",
+    "mods/end-remastered.md",
+    "mods/enchantment-descriptions.md",
     "mods",
     "import-data/output",
     "import-data/master-list.csv",

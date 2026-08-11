@@ -21,5 +21,4 @@ Universal Wood Compat: Quark, Twilight Forest, Twigs, Another Furniture, Farmers
 
 ## Dependencies
 
-- none
-
+- [[moonlight-lib|Moonlight Lib]]

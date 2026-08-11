@@ -22,4 +22,3 @@ Allows a server to pre-generate chunks in the world
 ## Dependencies
 
 - none
-

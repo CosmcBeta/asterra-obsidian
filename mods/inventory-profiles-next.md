@@ -21,5 +21,5 @@ Take control over your inventory. Sort. Move matching Items. Throw all. Locked s
 
 ## Dependencies
 
-- none
-
+- [[kotlin-for-forge|Kotlin for Forge]]
+- [[libipn|libIPN]]
