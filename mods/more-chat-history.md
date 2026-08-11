@@ -21,5 +21,4 @@ Increases max length of chat history
 
 ## Dependencies
 
-- none
-
+- [[sinytra-connector|Sinytra Connector]]

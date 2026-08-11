@@ -21,5 +21,4 @@ Makes your food and experience bars visible when riding on a horse.
 
 ## Dependencies
 
-- none
-
+- [[puzzles-lib|Puzzles Lib]]

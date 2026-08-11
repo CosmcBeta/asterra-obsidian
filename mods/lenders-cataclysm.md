@@ -21,5 +21,5 @@ Cataclysm is a mod that adds difficult dungeons, challenging boss-fights and pow
 
 ## Dependencies
 
-- none
-
+- [[curios-api|Curios API]]
+- [[lionfish-api|Lionfish-API]]

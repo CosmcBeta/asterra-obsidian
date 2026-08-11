@@ -21,5 +21,4 @@ Changes how culling are handled to improve performance
 
 ## Dependencies
 
-- none
-
+- [[cloth-config-api|Cloth Config API]]

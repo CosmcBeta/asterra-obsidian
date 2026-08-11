@@ -22,4 +22,3 @@ General purpose optimization mod
 ## Dependencies
 
 - none
-

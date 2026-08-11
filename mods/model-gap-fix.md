@@ -22,4 +22,3 @@ Fixes a block and item model bug
 ## Dependencies
 
 - none
-

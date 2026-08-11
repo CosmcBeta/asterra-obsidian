@@ -21,5 +21,4 @@ loads of structures made with vanilla blocks and entities bringing life to your 
 
 ## Dependencies
 
-- none
-
+- [[moogs-structure-lib|Moog's Structure Lib (moogs_structures)]]

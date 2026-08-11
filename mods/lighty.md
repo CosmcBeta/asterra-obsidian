@@ -22,4 +22,3 @@ The Light Overlay Mod with a twist!
 ## Dependencies
 
 - none
-

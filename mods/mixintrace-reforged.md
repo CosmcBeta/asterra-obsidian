@@ -22,4 +22,3 @@ Adds Mixin information to stack traces in crash reports for easier debugging
 ## Dependencies
 
 - none
-

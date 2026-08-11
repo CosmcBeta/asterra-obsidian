@@ -21,5 +21,4 @@ Jade's additional mod supports for Neo/Forge
 
 ## Dependencies
 
-- none
-
+- [[jade|Jade]]

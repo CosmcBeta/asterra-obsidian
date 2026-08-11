@@ -3,13 +3,13 @@ type: mod
 side: both
 launcher: neoforge
 aliases:
- - "Jade"
+  - Lionfish-API
 ---
-# Jade
+# Lionfish-API
 
 ## Description
 
-Shows information about what you are looking at.
+Very Light Animation api
 
 ## Notes
 
@@ -17,7 +17,7 @@ Shows information about what you are looking at.
 
 ## Link
 
-- https://modrinth.com/mod/jade
+- https://modrinth.com/mod/lionfish-api
 
 ## Dependencies
 

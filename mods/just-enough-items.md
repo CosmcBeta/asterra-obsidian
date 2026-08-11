@@ -13,7 +13,7 @@ Recipe browser with good mod combatibility
 
 ## Notes
 
-- none
+- this is here for more mod integration, EMI tends to take care of frontend
 
 ## Link
 
@@ -22,4 +22,3 @@ Recipe browser with good mod combatibility
 ## Dependencies
 
 - none
-

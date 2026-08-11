@@ -9,7 +9,7 @@ aliases:
 
 ## Description
 
-Lots of Vanilla styled structrues to fill up the end dimension with life!
+Lots of Vanilla styled structures to fill up the end dimension with life!
 
 ## Notes
 
@@ -21,5 +21,4 @@ Lots of Vanilla styled structrues to fill up the end dimension with life!
 
 ## Dependencies
 
-- none
-
+- [[moogs-structure-lib|Moog's Structure Lib (moogs_structures)]]
