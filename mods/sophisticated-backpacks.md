@@ -21,5 +21,4 @@ Yet another backpack mod this time with backpack you can place in world, color i
 
 ## Dependencies
 
-- none
-
+- [[sophisticated-core|Sophisticated Core]]

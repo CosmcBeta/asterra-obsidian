@@ -22,4 +22,3 @@ Gives Grass, Podzol, Mycelium, Crimson Nylium, and Warped Nylium vanilla-friendl
 ## Dependencies
 
 - none
-

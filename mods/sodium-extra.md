@@ -21,5 +21,4 @@ Adds more settings to Sodium
 
 ## Dependencies
 
-- none
-
+- [[sodium|Sodium]]

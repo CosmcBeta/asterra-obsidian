@@ -13,7 +13,7 @@ Two-page book editing/viewing, easy formatting, colored books and other book-rel
 
 ## Notes
 
-- none
+- maybe edit config so mobs don't spawn with books
 
 ## Link
 
@@ -22,4 +22,3 @@ Two-page book editing/viewing, easy formatting, colored books and other book-rel
 ## Dependencies
 
 - none
-

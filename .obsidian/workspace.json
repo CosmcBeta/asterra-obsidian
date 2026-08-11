@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mods/regions-unexplored.md",
+                "file": "mods/sophisticated-backpacks-create-integration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "regions-unexplored"
+              "title": "sophisticated-backpacks-create-integration"
             }
           }
         ]
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mods/regions-unexplored.md"
+                "file": "mods/sophisticated-backpacks-create-integration.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -231,8 +231,20 @@
   },
   "active": "43333e55390af328",
   "lastOpenFiles": [
-    "lithostitched.md",
+    "mods/sophisticated-backpacks.md",
+    "sophisticated-core.md",
+    "mods/sodium-shadowy-path-blocks.md",
+    "mods/sodium-extra.md",
+    "mods/sodium.md",
+    "mods/sinytra-connector.md",
+    "mods/simple-voice-chat.md",
+    "mods/simple-rich-discord-presence.md",
+    "mods/simple-grass-flowers.md",
+    "mods/scholar.md",
+    "mods/rightclickharvest.md",
+    "jamlib.md",
     "mods/regions-unexplored.md",
+    "lithostitched.md",
     "mods/reeses-sodium-options.md",
     "mods/paginated-advancements-and-custom-frames.md",
     "mods/particular-reforged.md",
@@ -245,18 +257,6 @@
     "mods/nullscape.md",
     "mods/nuit-interop.md",
     "mods/nuit.md",
-    "mods/no-chat-reports.md",
-    "mods/netherportalfix.md",
-    "mods/natures-compass.md",
-    "mods/naturally-trimmed.md",
-    "mods/naturalist.md",
-    "mods/my-nethers-delight.md",
-    "mods/mvs-moogs-voyager-structures.md",
-    "mods/multiplayer-sleep.md",
-    "mods/mouse-tweaks.md",
-    "mods/more-culling.md",
-    "README.md",
-    "mods/more-chat-history.md",
     "mods",
     "import-data/output",
     "import-data/master-list.csv",
