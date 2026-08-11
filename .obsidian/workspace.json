@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mods/open-parties-and-claims.md",
+                "file": "mods/regions-unexplored.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "open-parties-and-claims"
+              "title": "regions-unexplored"
             }
           }
         ]
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mods/open-parties-and-claims.md"
+                "file": "mods/regions-unexplored.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -231,6 +231,16 @@
   },
   "active": "43333e55390af328",
   "lastOpenFiles": [
+    "lithostitched.md",
+    "mods/regions-unexplored.md",
+    "mods/reeses-sodium-options.md",
+    "mods/paginated-advancements-and-custom-frames.md",
+    "mods/particular-reforged.md",
+    "mods/polymorph.md",
+    "mods/polytone.md",
+    "mods/puzzle.md",
+    "mods/optigui.md",
+    "mods/open-parties-and-claims.md",
     "mods/oceans-delight.md",
     "mods/nullscape.md",
     "mods/nuit-interop.md",
@@ -247,16 +257,6 @@
     "mods/more-culling.md",
     "README.md",
     "mods/more-chat-history.md",
-    "mods/modernfix.md",
-    "mods/model-gap-fix.md",
-    "mods/mns-moogs-nether-structures.md",
-    "mods/mixintrace-reforged.md",
-    "mods/mes-moogs-end-structures.md",
-    "moogs-structure-lib.md",
-    "mods/lootr.md",
-    "mods/lithium.md",
-    "mods/lighty.md",
-    "mods/lenders-cataclysm.md",
     "mods",
     "import-data/output",
     "import-data/master-list.csv",

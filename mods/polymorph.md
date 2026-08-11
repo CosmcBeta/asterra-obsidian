@@ -22,4 +22,3 @@ No more recipe conflicts! Adds an option to choose the crafting result if more t
 ## Dependencies
 
 - none
-

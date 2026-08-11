@@ -21,5 +21,6 @@ Enables customization of in-game GUI screen textures
 
 ## Dependencies
 
-- none
-
+- [[sinytra-connector|Sinytra Connector]]
+- [[fabric-language-kotlin|Fabric Language Kotlin]]
+- [[forgified-fabric-api|Forgified Fabric API]]
