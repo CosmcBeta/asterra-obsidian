@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "7ea6228b284dd503",
+    "type": "split",
+    "children": [
+      {
+        "id": "bea29323e2ecea1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43333e55390af328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mods/accessories.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": true,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "accessories"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3c22dbab70d17cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "57889528326286e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d9931ed7bf91800",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0f3e030aa48ac81c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "df9343013ee15eda",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "61236cf19b56e30d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f548371bd97a4ba9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "904e1cf1ee9f1cce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templates/daily.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for daily"
+            }
+          },
+          {
+            "id": "e3a8a3f1e758a8d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/daily.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from daily"
+            }
+          },
+          {
+            "id": "c8365a9e7caa0dfe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "03cc6999586ff65e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "94131076fcbe4094",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/daily.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of daily"
+            }
+          },
+          {
+            "id": "ee467ab28bbb0ed7",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "mods/accessories.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "b4ec206f35851cb0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "e7957be8f9b10a6b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-importer:Import notes": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "43333e55390af328",
+  "lastOpenFiles": [
+    "mods/accessories-compatibility-layer.md",
+    "mods/advanced-netherite.md",
+    "mods/ambientsounds.md",
+    "mods/animatica-foxified.md",
+    "mods/anti-enderman-greif.md",
+    "mods/appleskin.md",
+    "mods/artifacts.md",
+    "mods/baubley-heart-canisters.md",
+    "mods/better-archeology.md",
+    "mods/better-compatibility-checker.md",
+    "mods/better-statistics-screen.md",
+    "mods/betterend-new-dawn.md",
+    "worldweaver-new-dawn.md",
+    "bclib-new-dawn.md",
+    "tcdcommons-api.md",
+    "wunderlib-new-dawn.md",
+    "architectury-api.md",
+    "creativecore.md",
+    "resourceful-config.md",
+    "mods/accessories.md",
+    "owo-lib.md",
+    "templates/mod-note.md",
+    "forgified-fabric-api.md",
+    "mods/bettergrassify.md",
+    "mods/betterf3.md",
+    "import-data/output/accessories-compatibility-layer.md",
+    "mods",
+    "import-data/output",
+    "import-data/master-list.csv",
+    "import-data/server modpack - master list.csv",
+    "import-data/create-files.py",
+    "import-data",
+    "templates",
+    "journal/2026/08-August",
+    "projects/Untitled",
+    "journal/2026/07-July"
+  ]
+}
