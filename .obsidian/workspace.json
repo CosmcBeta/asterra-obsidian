@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mods/accessories.md",
+                "file": "mods/betterf3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "accessories"
+              "title": "betterf3"
             }
           }
         ]
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mods/accessories.md"
+                "file": "mods/betterf3.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -210,12 +210,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,6 +232,10 @@
   },
   "active": "43333e55390af328",
   "lastOpenFiles": [
+    "cloth-config-api.md",
+    "mods/betterf3.md",
+    "mods/betterend-new-dawn.md",
+    "mods/accessories.md",
     "mods/accessories-compatibility-layer.md",
     "mods/advanced-netherite.md",
     "mods/ambientsounds.md",
@@ -244,7 +247,6 @@
     "mods/better-archeology.md",
     "mods/better-compatibility-checker.md",
     "mods/better-statistics-screen.md",
-    "mods/betterend-new-dawn.md",
     "worldweaver-new-dawn.md",
     "bclib-new-dawn.md",
     "tcdcommons-api.md",
@@ -252,13 +254,10 @@
     "architectury-api.md",
     "creativecore.md",
     "resourceful-config.md",
-    "mods/accessories.md",
     "owo-lib.md",
     "templates/mod-note.md",
     "forgified-fabric-api.md",
     "mods/bettergrassify.md",
-    "mods/betterf3.md",
-    "import-data/output/accessories-compatibility-layer.md",
     "mods",
     "import-data/output",
     "import-data/master-list.csv",

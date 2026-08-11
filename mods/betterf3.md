@@ -3,7 +3,7 @@ type: mod
 side: client
 launcher: neoforge
 aliases:
- - "BetterF3"
+  - BetterF3
 ---
 # BetterF3
 
@@ -21,5 +21,4 @@ Customizable and colorful F3 menu
 
 ## Dependencies
 
-- none
-
+- [[cloth-config-api|Cloth Config API]]
