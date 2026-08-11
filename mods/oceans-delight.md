@@ -21,5 +21,4 @@ Ocean's Delight is an addon mod for Farmer's Delight based around adding culinar
 
 ## Dependencies
 
-- none
-
+- [[farmers-delight|Farmer's Delight]]

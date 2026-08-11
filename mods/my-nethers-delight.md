@@ -21,5 +21,4 @@ New Nether addon for Farmer's Delight
 
 ## Dependencies
 
-- none
-
+- [[farmers-delight|Farmer's Delight]]

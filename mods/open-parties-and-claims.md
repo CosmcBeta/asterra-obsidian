@@ -22,4 +22,3 @@ Adds the ability to claim chunks and make player parties, integrates with Xaero'
 ## Dependencies
 
 - none
-

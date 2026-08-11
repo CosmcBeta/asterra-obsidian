@@ -22,4 +22,3 @@ Allows you to locate biomes anywhere in the world.
 ## Dependencies
 
 - none
-

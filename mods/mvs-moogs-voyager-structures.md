@@ -21,5 +21,4 @@ adds 130+ vanilla style structures to your world to bring it alive, using vanill
 
 ## Dependencies
 
-- none
-
+- [[moogs-structure-lib|Moog's Structure Lib (moogs_structures)]]
