@@ -8,16 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43333e55390af328",
+            "id": "3113f42f6071e928",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "mods/bookshelf-inspector.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bookshelf-inspector"
+            }
+          },
+          {
+            "id": "6e6ba4934cc7a1bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mods/modernfix.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "modernfix"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "mods/modernfix.md"
+              },
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -213,8 +254,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43333e55390af328",
+  "active": "5d9931ed7bf91800",
   "lastOpenFiles": [
+    "mods/bookshelf-inspector.md",
+    "mods/modernfix.md",
     "mods/anti-enderman-greif.md",
     "mods/resourceful-config.md",
     "mods/architectury-api.md",
@@ -239,8 +282,6 @@
     "mods/structory.md",
     "mods/stoneworks.md",
     "mods/steam-n-rails-neoforge.md",
-    "mods/status-effect-bars-reforged.md",
-    "mods/sophisticated-storage-create-integration.md",
     "mods",
     "import-data/output",
     "import-data/master-list.csv",

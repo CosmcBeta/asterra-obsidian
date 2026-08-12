@@ -1,9 +1,9 @@
 ---
 type: mod
-side: both?
+side: both
 launcher: neoforge
 aliases:
- - "ModernFix"
+  - ModernFix
 ---
 # ModernFix
 
