@@ -21,5 +21,4 @@ Adding many new subtle details through particles and a few sounds
 
 ## Dependencies
 
-- none
-
+- [[fzzy-config|Fzzy Config]]

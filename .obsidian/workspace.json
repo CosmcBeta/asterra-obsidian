@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mods/sophisticated-backpacks-create-integration.md",
+                "file": "mods/waystones.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sophisticated-backpacks-create-integration"
+              "title": "waystones"
             }
           }
         ]
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mods/sophisticated-backpacks-create-integration.md"
+                "file": "mods/waystones.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -231,6 +231,20 @@
   },
   "active": "43333e55390af328",
   "lastOpenFiles": [
+    "mods/visual-armor-trims.md",
+    "mods/trade-cycling.md",
+    "mods/create-contraption-terminals.md",
+    "mods/toms-simple-storage-mod.md",
+    "mods/tectonic.md",
+    "mods/supplementaries.md",
+    "mods/subtle-effects.md",
+    "mods/structory.md",
+    "mods/stoneworks.md",
+    "mods/steam-n-rails-neoforge.md",
+    "mods/status-effect-bars-reforged.md",
+    "mods/sophisticated-storage-create-integration.md",
+    "mods/sophisticated-storage.md",
+    "mods/sophisticated-backpacks-create-integration.md",
     "mods/sophisticated-backpacks.md",
     "sophisticated-core.md",
     "mods/sodium-shadowy-path-blocks.md",
@@ -243,20 +257,6 @@
     "mods/scholar.md",
     "mods/rightclickharvest.md",
     "jamlib.md",
-    "mods/regions-unexplored.md",
-    "lithostitched.md",
-    "mods/reeses-sodium-options.md",
-    "mods/paginated-advancements-and-custom-frames.md",
-    "mods/particular-reforged.md",
-    "mods/polymorph.md",
-    "mods/polytone.md",
-    "mods/puzzle.md",
-    "mods/optigui.md",
-    "mods/open-parties-and-claims.md",
-    "mods/oceans-delight.md",
-    "mods/nullscape.md",
-    "mods/nuit-interop.md",
-    "mods/nuit.md",
     "mods",
     "import-data/output",
     "import-data/master-list.csv",

@@ -9,7 +9,7 @@ aliases:
 
 ## Description
 
-An unofficial port of Create: Steam 'n' Rails to 1.21.1.
+Adding depth to Create's rail network & steam system
 
 ## Notes
 
@@ -21,5 +21,4 @@ An unofficial port of Create: Steam 'n' Rails to 1.21.1.
 
 ## Dependencies
 
-- none
-
+- [[create|Create]]

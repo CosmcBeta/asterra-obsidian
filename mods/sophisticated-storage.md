@@ -21,5 +21,4 @@ Storage mod with multiple tiers and functional upgrades
 
 ## Dependencies
 
-- none
-
+- [[sophisticated-core|Sophisticated Core]]

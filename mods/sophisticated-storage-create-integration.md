@@ -21,5 +21,6 @@ Full Featured Sophisticated Storage on Create Contraptions
 
 ## Dependencies
 
-- none
-
+- [[create|Create]]
+- [[sophisticated-core|Sophisticated Core]]
+- [[sophisticated-storage|Sophisticated Storage]]
