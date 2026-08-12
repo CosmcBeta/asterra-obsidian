@@ -22,4 +22,3 @@ Your options shall be respected—even on NeoForge.
 ## Dependencies
 
 - none
-

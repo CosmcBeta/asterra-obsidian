@@ -3,13 +3,13 @@ type: mod
 side: both
 launcher: neoforge
 aliases:
- - "Xaero's Minimap"
+  - YUNG's API
 ---
-# Xaero's Minimap
+# YUNG's API
 
 ## Description
 
-Adds minimap to the game
+Library mod for YUNG's mods.
 
 ## Notes
 
@@ -17,7 +17,7 @@ Adds minimap to the game
 
 ## Link
 
-- https://modrinth.com/mod/xaeros-minimap
+- https://modrinth.com/mod/yungs-api
 
 ## Dependencies
 

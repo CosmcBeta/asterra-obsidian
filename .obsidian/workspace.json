@@ -11,24 +11,10 @@
             "id": "43333e55390af328",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mods/waystones.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": true,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "waystones"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -182,9 +168,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "mods/waystones.md"
-              },
+              "state": {},
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -231,6 +215,20 @@
   },
   "active": "43333e55390af328",
   "lastOpenFiles": [
+    "mods/anti-enderman-greif.md",
+    "mods/resourceful-config.md",
+    "mods/architectury-api.md",
+    "mods/zoomify.md",
+    "mods/forgified-fabric-api.md",
+    "mods/yungs-better-witch-huts.md",
+    "mods/yungs-better-strongholds.md",
+    "mods/yungs-better-end-island.md",
+    "mods/yungs-api.md",
+    "mods/your-options-shall-be-neoforged-yosbr.md",
+    "mods/xaeros-world-map.md",
+    "mods/xaeros-minimap-and-world-map-waystones-compatibility.md",
+    "mods/xaeros-minimap.md",
+    "mods/waystones.md",
     "mods/visual-armor-trims.md",
     "mods/trade-cycling.md",
     "mods/create-contraption-terminals.md",
@@ -243,20 +241,6 @@
     "mods/steam-n-rails-neoforge.md",
     "mods/status-effect-bars-reforged.md",
     "mods/sophisticated-storage-create-integration.md",
-    "mods/sophisticated-storage.md",
-    "mods/sophisticated-backpacks-create-integration.md",
-    "mods/sophisticated-backpacks.md",
-    "sophisticated-core.md",
-    "mods/sodium-shadowy-path-blocks.md",
-    "mods/sodium-extra.md",
-    "mods/sodium.md",
-    "mods/sinytra-connector.md",
-    "mods/simple-voice-chat.md",
-    "mods/simple-rich-discord-presence.md",
-    "mods/simple-grass-flowers.md",
-    "mods/scholar.md",
-    "mods/rightclickharvest.md",
-    "jamlib.md",
     "mods",
     "import-data/output",
     "import-data/master-list.csv",

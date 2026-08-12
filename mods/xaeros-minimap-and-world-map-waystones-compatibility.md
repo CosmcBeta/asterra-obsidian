@@ -21,5 +21,5 @@ Creates a Waypoint in Xaero's Minimap & World Map when activate a Waystone
 
 ## Dependencies
 
-- none
-
+- [[xaeros-minimap|Xaero's Minimap]]
+- [[waystones|Waystones]]

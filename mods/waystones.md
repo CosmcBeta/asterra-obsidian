@@ -21,5 +21,4 @@ Teleport back to activated waystones. For Survival, Adventure or Servers.
 
 ## Dependencies
 
-- none
-
+- [[balm|Balm]]

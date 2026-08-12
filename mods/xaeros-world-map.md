@@ -22,4 +22,3 @@ Adds a fullscreen map
 ## Dependencies
 
 - none
-

@@ -21,5 +21,4 @@ An overhaul of the main End Island where the dragon fight takes place!
 
 ## Dependencies
 
-- none
-
+- [[yungs-api|YUNG's API]]
