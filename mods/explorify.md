@@ -13,7 +13,7 @@ A simplistic, vanilla-friendly collection of new structures.
 
 ## Notes
 
-- none
+- install cristel lib if we want config otherwise use a datapack
 
 ## Link
 
@@ -22,4 +22,3 @@ A simplistic, vanilla-friendly collection of new structures.
 ## Dependencies
 
 - none
-

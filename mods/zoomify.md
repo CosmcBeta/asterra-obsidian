@@ -9,7 +9,7 @@ aliases:
 
 ## Description
 
-Allows zooming in
+A zoom mod with infinite customizability.
 
 ## Notes
 
@@ -21,5 +21,7 @@ Allows zooming in
 
 ## Dependencies
 
-- none
-
+- [[sinytra-connector|Sinytra Connector]]
+- [[fabric-language-kotlin|Fabric Language Kotlin]]
+- [[forgified-fabric-api|Forgified Fabric API]]
+- [[yetanotherconfiglib|YetAnotherConfigLib (YACL)]]

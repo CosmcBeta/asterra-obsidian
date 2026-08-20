@@ -22,4 +22,3 @@ Adds customizable bars to the status effects overlay to show the remaining durat
 ## Dependencies
 
 - none
-

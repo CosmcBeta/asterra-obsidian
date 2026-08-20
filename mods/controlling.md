@@ -21,5 +21,4 @@ Adds a search bar to the Key-Bindings menu
 
 ## Dependencies
 
-- none
-
+- [[searchables|Searchables]]

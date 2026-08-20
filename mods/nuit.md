@@ -13,7 +13,7 @@ Adds skybox customization
 
 ## Notes
 
-- none
+- might have some issues since it is being run through connector, we will just have to test and see
 
 ## Link
 
@@ -21,5 +21,5 @@ Adds skybox customization
 
 ## Dependencies
 
-- none
-
+- [[sinytra-connector|Sinytra Connector]]
+- [[forgified-fabric-api|Forgified Fabric API]]

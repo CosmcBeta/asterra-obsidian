@@ -13,7 +13,7 @@ Lets you play Fabric mods on NeoForge
 
 ## Notes
 
-- none
+- might need connector extras, we will see
 
 ## Link
 
@@ -21,5 +21,4 @@ Lets you play Fabric mods on NeoForge
 
 ## Dependencies
 
-- none
-
+- [[forgified-fabric-api|Forgified Fabric API]]

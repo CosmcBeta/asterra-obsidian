@@ -13,7 +13,7 @@ Adds better grass from OptiFine
 
 ## Notes
 
-- none
+- has a version for neoforge but it is outdated to some extent, try connector first, otherwise go with neoforge version
 
 ## Link
 
@@ -21,5 +21,5 @@ Adds better grass from OptiFine
 
 ## Dependencies
 
-- none
-
+- [[forgified-fabric-api|Forgified Fabric API]]
+- [[sinytra-connector|Sinytra Connector]]

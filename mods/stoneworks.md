@@ -21,5 +21,4 @@ Vanilla stone types in plenty of variations for all your building needs.
 
 ## Dependencies
 
-- none
-
+- [[puzzles-lib|Puzzles Lib]]

@@ -22,4 +22,3 @@ Adds minimap to the game
 ## Dependencies
 
 - none
-

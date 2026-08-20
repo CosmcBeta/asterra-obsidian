@@ -22,4 +22,3 @@ Refresh villager trades without needing to break workstations
 ## Dependencies
 
 - none
-

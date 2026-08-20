@@ -22,4 +22,3 @@ A mod that makes it so nobody misses out on Loot! All loot chests are instanced 
 ## Dependencies
 
 - none
-

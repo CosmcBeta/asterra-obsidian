@@ -22,4 +22,3 @@ Allows customization of different aspects via resource packs
 ## Dependencies
 
 - none
-

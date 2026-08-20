@@ -13,7 +13,7 @@ Transforms the boring Vanilla end into an alien dimension with the most surreal 
 
 ## Notes
 
-- none
+- we need to decide if we add this as a mod or as a datapack, this will be decided by the compatibility with BetterEnd
 
 ## Link
 
@@ -22,4 +22,3 @@ Transforms the boring Vanilla end into an alien dimension with the most surreal 
 ## Dependencies
 
 - none
-

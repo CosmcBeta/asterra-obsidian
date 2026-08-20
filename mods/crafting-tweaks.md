@@ -1,9 +1,9 @@
 ---
 type: mod
-side: both?
+side: both
 launcher: neoforge
 aliases:
- - "Crafting Tweaks"
+  - Crafting Tweaks
 ---
 # Crafting Tweaks
 
@@ -21,5 +21,4 @@ Allows you to rotate, balance or clear the crafting matrix by the press of a but
 
 ## Dependencies
 
-- none
-
+- [[balm|Balm]]

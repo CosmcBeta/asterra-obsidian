@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43333e55390af328",
+            "id": "3113f42f6071e928",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mods/betterf3.md",
+                "file": "mods/bookshelf-inspector.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -23,15 +23,64 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "betterf3"
+              "title": "bookshelf-inspector"
+            }
+          },
+          {
+            "id": "6e6ba4934cc7a1bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mods/modernfix.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "modernfix"
+            }
+          },
+          {
+            "id": "ab5ed9b902f82a99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mods/controlify.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "controlify"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 206
   },
   "right": {
     "id": "61236cf19b56e30d",
@@ -183,7 +232,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mods/betterf3.md"
+                "file": "mods/controlify.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -205,8 +254,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -229,34 +278,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43333e55390af328",
+  "active": "5d9931ed7bf91800",
   "lastOpenFiles": [
-    "cloth-config-api.md",
-    "mods/betterf3.md",
-    "mods/betterend-new-dawn.md",
-    "mods/accessories.md",
-    "mods/accessories-compatibility-layer.md",
-    "mods/advanced-netherite.md",
-    "mods/ambientsounds.md",
-    "mods/animatica-foxified.md",
+    "mods/modernfix.md",
+    "mods/controlify.md",
+    "mods/bookshelf-inspector.md",
     "mods/anti-enderman-greif.md",
-    "mods/appleskin.md",
-    "mods/artifacts.md",
-    "mods/baubley-heart-canisters.md",
-    "mods/better-archeology.md",
-    "mods/better-compatibility-checker.md",
-    "mods/better-statistics-screen.md",
-    "worldweaver-new-dawn.md",
-    "bclib-new-dawn.md",
-    "tcdcommons-api.md",
-    "wunderlib-new-dawn.md",
-    "architectury-api.md",
-    "creativecore.md",
-    "resourceful-config.md",
-    "owo-lib.md",
-    "templates/mod-note.md",
-    "forgified-fabric-api.md",
-    "mods/bettergrassify.md",
+    "mods/resourceful-config.md",
+    "mods/architectury-api.md",
+    "mods/zoomify.md",
+    "mods/forgified-fabric-api.md",
+    "mods/yungs-better-witch-huts.md",
+    "mods/yungs-better-strongholds.md",
+    "mods/yungs-better-end-island.md",
+    "mods/yungs-api.md",
+    "mods/your-options-shall-be-neoforged-yosbr.md",
+    "mods/xaeros-world-map.md",
+    "mods/xaeros-minimap-and-world-map-waystones-compatibility.md",
+    "mods/xaeros-minimap.md",
+    "mods/waystones.md",
+    "mods/visual-armor-trims.md",
+    "mods/trade-cycling.md",
+    "mods/create-contraption-terminals.md",
+    "mods/toms-simple-storage-mod.md",
+    "mods/tectonic.md",
+    "mods/supplementaries.md",
+    "mods/subtle-effects.md",
+    "mods/structory.md",
+    "mods/stoneworks.md",
     "mods",
     "import-data/output",
     "import-data/master-list.csv",

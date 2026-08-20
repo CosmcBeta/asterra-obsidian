@@ -21,5 +21,4 @@ Adds shader packs to Minecraft
 
 ## Dependencies
 
-- none
-
+- [[sodium|Sodium]]

@@ -21,5 +21,5 @@ Preserving the elements of Minecraft with exceptional quality, detail, and perfo
 
 ## Dependencies
 
-- none
+- [[iris-shaders|Iris Shaders]]
 

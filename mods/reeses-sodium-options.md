@@ -21,5 +21,4 @@ Replaces sodiums option screen with better UX
 
 ## Dependencies
 
-- none
-
+- [[sodium|Sodium]]

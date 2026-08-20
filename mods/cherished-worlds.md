@@ -22,4 +22,3 @@ Favorite/pin/bookmark certain worlds, which will always be at the top of the lis
 ## Dependencies
 
 - none
-

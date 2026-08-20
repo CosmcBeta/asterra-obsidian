@@ -22,4 +22,3 @@ Skips rendering for entities that are hidden behind blocks, improving performanc
 ## Dependencies
 
 - none
-

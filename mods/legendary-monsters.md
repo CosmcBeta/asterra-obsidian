@@ -13,7 +13,7 @@ New early, middle, late game bosses
 
 ## Notes
 
-- none
+- might not add this, lets see how it fits
 
 ## Link
 
@@ -22,4 +22,3 @@ New early, middle, late game bosses
 ## Dependencies
 
 - none
-

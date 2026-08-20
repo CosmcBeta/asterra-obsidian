@@ -21,5 +21,4 @@ Make your house a home!
 
 ## Dependencies
 
-- none
-
+- [[resourceful-lib|Resourceful Lib]]

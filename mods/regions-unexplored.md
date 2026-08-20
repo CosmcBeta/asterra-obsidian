@@ -21,5 +21,4 @@ Regions Unexplored is a biome mod that overhauls the overworld and nether in man
 
 ## Dependencies
 
-- none
-
+- [[lithostitched|Lithostitched]]

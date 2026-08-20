@@ -13,7 +13,7 @@ Terrain shaping brought to new heights, grander and more varied than ever before
 
 ## Notes
 
-- none
+- add this as a mod
 
 ## Link
 
@@ -21,5 +21,4 @@ Terrain shaping brought to new heights, grander and more varied than ever before
 
 ## Dependencies
 
-- none
-
+- [[lithostitched|Lithostitched]]

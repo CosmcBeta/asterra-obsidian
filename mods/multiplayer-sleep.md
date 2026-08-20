@@ -22,4 +22,3 @@ Only one person has to sleep to skip the night
 ## Dependencies
 
 - none
-

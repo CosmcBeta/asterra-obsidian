@@ -1,9 +1,9 @@
 ---
 type: mod
-side: both?
+side: both
 launcher: neoforge
 aliases:
- - "ModernFix"
+  - ModernFix
 ---
 # ModernFix
 
@@ -22,4 +22,3 @@ Fixes lots of bugs and improves performance
 ## Dependencies
 
 - none
-

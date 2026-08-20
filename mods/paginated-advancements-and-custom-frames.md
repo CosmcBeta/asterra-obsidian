@@ -21,5 +21,6 @@ Overhauls advancement screen with new features
 
 ## Dependencies
 
-- none
-
+- [[sinytra-connector|Sinytra Connector]]
+- [[cloth-config-api|Cloth Config API]]
+- [[forgified-fabric-api|Forgified Fabric API]]

@@ -21,5 +21,6 @@ Sophisticated Backpacks on create contraptions
 
 ## Dependencies
 
-- none
-
+- [[sophisticated-core|Sophisticated Core]]
+- [[sophisticated-backpacks|Sophisticated Backpacks]]
+- [[create|Create]]

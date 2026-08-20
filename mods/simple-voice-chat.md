@@ -13,7 +13,7 @@ Adds proximity in-game voice chat
 
 ## Notes
 
-- none
+- need to set up the server so that this works
 
 ## Link
 
@@ -22,4 +22,3 @@ Adds proximity in-game voice chat
 ## Dependencies
 
 - none
-

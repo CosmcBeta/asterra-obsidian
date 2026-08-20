@@ -21,5 +21,5 @@ Provides a way to get enchantment descriptions from enchanted books.
 
 ## Dependencies
 
-- none
-
+- [[prickle|Prickle]]
+- [[bookshelf|Bookshelf]]

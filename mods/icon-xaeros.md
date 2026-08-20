@@ -9,7 +9,7 @@ aliases:
 
 ## Description
 
-Icon mod for xaero's map and minimap Many icon mod
+Icon mod for Xaero's map and minimap Many icon mod
 
 ## Notes
 
@@ -21,5 +21,4 @@ Icon mod for xaero's map and minimap Many icon mod
 
 ## Dependencies
 
-- none
-
+- [[xaeros-minimap|Xaero's Minimap]]

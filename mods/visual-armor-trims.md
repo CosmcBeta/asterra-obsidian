@@ -21,5 +21,4 @@ Your favorite armor trims now show up in your inventory!
 
 ## Dependencies
 
-- none
-
+- [[polytone|Polytone]]

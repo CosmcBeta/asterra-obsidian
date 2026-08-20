@@ -13,7 +13,7 @@ Converts OptiFine/MCPatcher skies to fabricskyboxes' skies
 
 ## Notes
 
-- none
+- same issue as Nuit
 
 ## Link
 
@@ -21,5 +21,4 @@ Converts OptiFine/MCPatcher skies to fabricskyboxes' skies
 
 ## Dependencies
 
-- none
-
+- [[nuit|Nuit]]

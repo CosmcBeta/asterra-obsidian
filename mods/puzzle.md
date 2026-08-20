@@ -21,5 +21,4 @@ Adds resource pack features
 
 ## Dependencies
 
-- none
-
+- [[moonlight-lib|Moonlight Lib]]

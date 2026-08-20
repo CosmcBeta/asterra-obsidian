@@ -13,7 +13,7 @@ Simple Discord Rich Presence
 
 ## Notes
 
-- none
+- need to set up the config so that it matches with our mod pack
 
 ## Link
 
@@ -21,5 +21,5 @@ Simple Discord Rich Presence
 
 ## Dependencies
 
-- none
-
+- [[architectury-api|Architectury API]]
+- [[cloth-config-api|Cloth Config API]]

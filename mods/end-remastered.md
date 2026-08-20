@@ -13,7 +13,7 @@ Make your journey to the End more Challenging and Engaging with End Remastered!
 
 ## Notes
 
-- none
+- maybe integrate this mod with other mods?
 
 ## Link
 
@@ -22,4 +22,3 @@ Make your journey to the End more Challenging and Engaging with End Remastered!
 ## Dependencies
 
 - none
-

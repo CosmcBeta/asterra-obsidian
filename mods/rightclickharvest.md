@@ -13,7 +13,7 @@ Allows you to harvest crops with right click
 
 ## Notes
 
-- none
+- needs to be on the server, but can optionally be on the client
 
 ## Link
 
@@ -21,5 +21,5 @@ Allows you to harvest crops with right click
 
 ## Dependencies
 
-- none
-
+- [[jamlib|JamLib]]
+- [[architectury-api|Architectury API]]

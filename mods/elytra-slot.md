@@ -21,5 +21,5 @@ Adds accessory support to the elytra so you can fly and wear chest armor at the 
 
 ## Dependencies
 
-- none
-
+- [[caelus-api|Caelus API]]
+- [[curios-api|Curios API]]

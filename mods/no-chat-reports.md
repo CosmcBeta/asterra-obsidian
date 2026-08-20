@@ -22,4 +22,3 @@ Removes the trackers on messages to prevent them being linked to your Microsoft 
 ## Dependencies
 
 - none
-

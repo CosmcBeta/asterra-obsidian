@@ -22,4 +22,3 @@ Minecraft mod that applies armor trims to naturally generated armor and equipmen
 ## Dependencies
 
 - none
-

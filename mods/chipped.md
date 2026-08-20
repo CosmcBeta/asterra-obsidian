@@ -21,5 +21,5 @@ Every block deserves a friend.
 
 ## Dependencies
 
-- none
-
+- [[athena|Athena]]
+- [[resourceful-lib|Resourceful Lib]]

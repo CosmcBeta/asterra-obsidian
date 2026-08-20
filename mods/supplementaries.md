@@ -21,5 +21,4 @@ Vanilla+ additions: Jars, signposts, faucets, weather vanes spring launchers, sc
 
 ## Dependencies
 
-- none
-
+- [[moonlight-lib|Moonlight Lib]]

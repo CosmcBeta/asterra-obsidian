@@ -13,7 +13,7 @@ Adds outvoted and forgotten mobs from the mob vote, expanding on their original 
 
 ## Notes
 
-- none
+- don't add all of them, like copper golem
 
 ## Link
 
@@ -21,5 +21,4 @@ Adds outvoted and forgotten mobs from the mob vote, expanding on their original 
 
 ## Dependencies
 
-- none
-
+- [[resourceful-lib|Resourceful Lib]]

@@ -21,5 +21,4 @@ Allows for custom entity models in Fabric
 
 ## Dependencies
 
-- none
-
+- [[entity-texture-features|Entity Texture Features]]

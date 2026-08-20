@@ -22,4 +22,3 @@ Enhances Minecraft's ambience with hand-crafted visual effects like fireflies, f
 ## Dependencies
 
 - none
-

@@ -1,9 +1,9 @@
 ---
 type: mod
-side: both
+side: client
 launcher: neoforge
 aliases:
- - "Distant Horizons"
+  - Distant Horizons
 ---
 # Distant Horizons
 
@@ -13,7 +13,7 @@ See farther without turning your game into a slide show
 
 ## Notes
 
-- none
+- can be on server too, but last time it gave issues so lets keep on client and see, also let user pick if they want it on
 
 ## Link
 
@@ -22,4 +22,3 @@ See farther without turning your game into a slide show
 ## Dependencies
 
 - none
-

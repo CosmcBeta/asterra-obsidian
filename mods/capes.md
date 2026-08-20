@@ -1,9 +1,9 @@
 ---
 type: mod
 side: client
-launcher: neoforge
+launcher: connector
 aliases:
- - "Capes"
+  - Capes
 ---
 # Capes
 
@@ -21,5 +21,6 @@ Allows the use of capes in-game
 
 ## Dependencies
 
-- none
-
+- [[sinytra-connector|Sinytra Connector]]
+- [[forgified-fabric-api|Forgified Fabric API]]
+- [[fabric-language-kotlin|Fabric Language Kotlin]]

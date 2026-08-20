@@ -22,4 +22,3 @@ Fastest rendering optimization mod
 ## Dependencies
 
 - none
-

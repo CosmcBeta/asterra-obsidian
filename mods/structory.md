@@ -13,7 +13,7 @@ A seasonally updated and atmospheric structure mod with light lore
 
 ## Notes
 
-- none
+- might not add, also check with other mods to see if we want this to be a datapack or a mod
 
 ## Link
 
@@ -22,4 +22,3 @@ A seasonally updated and atmospheric structure mod with light lore
 ## Dependencies
 
 - none
-

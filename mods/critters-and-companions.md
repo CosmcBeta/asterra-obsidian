@@ -21,5 +21,6 @@ Adds a few new friends to your world!
 
 ## Dependencies
 
-- none
-
+- [[architectury-api|Architectury API]]
+- [[yetanotherconfiglib|YetAnotherConfigLib (YACL)]]
+- [[geckolib|Geckolib]]

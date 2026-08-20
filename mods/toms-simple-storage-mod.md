@@ -22,4 +22,3 @@ Simple vanilla style storage mod
 ## Dependencies
 
 - none
-

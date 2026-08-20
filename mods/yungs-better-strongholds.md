@@ -21,5 +21,4 @@ A complete redesign of Minecraft's strongholds!
 
 ## Dependencies
 
-- none
-
+- [[yungs-api|YUNG's API]]

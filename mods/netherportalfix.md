@@ -21,5 +21,5 @@ Ensures correct destinations when travelling back and forth through Nether Porta
 
 ## Dependencies
 
-- none
+- [[balm|Balm]]
 

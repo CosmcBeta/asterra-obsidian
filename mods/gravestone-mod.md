@@ -22,4 +22,3 @@ Places a gravestone with your inventory items inside when you die
 ## Dependencies
 
 - none
-

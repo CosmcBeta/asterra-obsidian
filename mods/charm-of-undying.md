@@ -13,7 +13,7 @@ Adds accessory support for the Totem of Undying so you can place it in a slot an
 
 ## Notes
 
-- none
+- might not add, we will see
 
 ## Link
 
@@ -21,5 +21,4 @@ Adds accessory support for the Totem of Undying so you can place it in a slot an
 
 ## Dependencies
 
-- none
-
+- [[curios-api|Curios API]]

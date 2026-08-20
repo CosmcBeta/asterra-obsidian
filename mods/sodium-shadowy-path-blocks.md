@@ -21,5 +21,4 @@ Reintroduces vanilla-like smooth lighting to non-full blocks when using Sodium.
 
 ## Dependencies
 
-- none
-
+- [[sodium|Sodium]]

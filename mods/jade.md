@@ -22,4 +22,3 @@ Shows information about what you are looking at.
 ## Dependencies
 
 - none
-

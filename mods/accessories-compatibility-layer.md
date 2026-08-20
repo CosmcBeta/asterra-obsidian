@@ -22,5 +22,5 @@ Modifies commonly used Accessory API's to work with Accessories, unifying a modp
 ## Dependencies
 
 - [[accessories|Accessories]]
-- [[curios|Curios]]
+- [[curios-api|Curios API]]
 - [[owo-lib|owo]]

@@ -21,5 +21,4 @@ Adds overhauled witch huts to swamps!
 
 ## Dependencies
 
-- none
-
+- [[yungs-api|YUNG's API]]

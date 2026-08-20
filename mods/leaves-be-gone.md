@@ -21,5 +21,4 @@ Quick leaf decay from cutting down trees. Built for fast performance and mod com
 
 ## Dependencies
 
-- none
-
+- [[puzzles-lib|Puzzles Lib]]

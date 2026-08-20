@@ -1,9 +1,9 @@
 ---
 type: mod
-side: both?
+side: both
 launcher: neoforge
 aliases:
- - "Bookshelf Inspector"
+  - Bookshelf Inspector
 ---
 # Bookshelf Inspector
 
@@ -13,7 +13,7 @@ Inspect any book in a chiseled bookshelf.
 
 ## Notes
 
-- none
+- needs to be on the server to work
 
 ## Link
 
@@ -22,4 +22,3 @@ Inspect any book in a chiseled bookshelf.
 ## Dependencies
 
 - none
-

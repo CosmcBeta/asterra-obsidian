@@ -22,4 +22,3 @@ Adds dynamic lights to Minecraft
 ## Dependencies
 
 - none
-

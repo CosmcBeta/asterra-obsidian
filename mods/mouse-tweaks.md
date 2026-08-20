@@ -22,4 +22,3 @@ QOL mouse movements
 ## Dependencies
 
 - none
-

@@ -22,4 +22,3 @@ Reduce resource usage while Minecraft is in the background
 ## Dependencies
 
 - none
-

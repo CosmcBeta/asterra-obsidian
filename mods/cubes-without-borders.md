@@ -22,4 +22,3 @@ Adds borderless fullscreen to Minecraft
 ## Dependencies
 
 - none
-

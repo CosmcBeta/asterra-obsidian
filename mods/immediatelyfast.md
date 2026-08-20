@@ -22,4 +22,3 @@ Improves the immediate mode rendering performance of the client
 ## Dependencies
 
 - none
-

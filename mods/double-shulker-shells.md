@@ -13,7 +13,7 @@ Makes all shulkers drop 2 shells
 
 ## Notes
 
-- none
+- might not add this
 
 ## Link
 
@@ -22,4 +22,3 @@ Makes all shulkers drop 2 shells
 ## Dependencies
 
 - none
-

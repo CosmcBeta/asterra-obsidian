@@ -22,4 +22,3 @@ Reduce block entity FPS lag with almost no compromises, and improve their visual
 ## Dependencies
 
 - none
-

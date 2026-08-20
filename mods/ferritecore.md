@@ -22,4 +22,3 @@ Reduces memory usage of Minecraft
 ## Dependencies
 
 - none
-
