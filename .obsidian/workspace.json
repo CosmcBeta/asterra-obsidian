@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mods/betterf3.md",
+                "file": "mods/create.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "betterf3"
+              "title": "create"
             }
           }
         ]
@@ -183,7 +183,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "mods/betterf3.md"
+                "file": "mods/create.md"
               },
               "icon": "lucide-info",
               "title": "File properties"
@@ -231,6 +231,7 @@
   },
   "active": "43333e55390af328",
   "lastOpenFiles": [
+    "mods/betterf3.md",
     "mods/yungs-api.md",
     "mods/yetanotherconfiglib.md",
     "mods/wunderlib-new-dawn.md",
@@ -256,7 +257,6 @@
     "mods/jamlib.md",
     "mods/geckolib.md",
     "mods/fzzy-config.md",
-    "mods/forgified-fabric-api.md",
     "mods",
     "import-data/output",
     "import-data/master-list.csv",
